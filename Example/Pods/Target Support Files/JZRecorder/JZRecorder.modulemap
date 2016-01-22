@@ -1,0 +1,6 @@
+framework module JZRecorder {
+  umbrella header "JZRecorder-umbrella.h"
+
+  export *
+  module * { export * }
+}
