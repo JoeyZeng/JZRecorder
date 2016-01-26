@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "JZRecorder"
-  s.version          = "0.1.0"
+  s.version          = "1.0.0"
   s.summary          = "Record an audio and store to file simply."
 
 # This description is used to generate tags and improve search results.
@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
+                        JZRecorder简单封装了IOS系统API，让使用更加方便。支持保存录音到本地，返回本地路径。录音格式采用双声道ACC文件，生成的录音文件体积小，无需压缩，可以直接上传到Server。
                        DESC
 
   s.homepage         = "https://github.com/JoeyZeng/JZRecorder"
