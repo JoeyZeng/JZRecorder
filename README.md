@@ -2,6 +2,7 @@
 Record an audio and store to file simply.
 
 # Snapshot
+niconiconi~
 https://raw.githubusercontent.com/JoeyZeng/JZRecorder/master/snapshot.gif
 
 # Installation
