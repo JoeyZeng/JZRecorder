@@ -2,8 +2,9 @@
 Record an audio and store to file simply.
 
 # Snapshot
-niconiconi~
-https://raw.githubusercontent.com/JoeyZeng/JZRecorder/master/snapshot.gif
+![Snapshot~](https://raw.githubusercontent.com/JoeyZeng/JZRecorder/master/snapshot.gif
+)
+
 
 # Installation
 1. Add pod "JZRecorder" to your Podfile.
